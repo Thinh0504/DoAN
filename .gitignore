@@ -1,5 +1,2 @@
+.env
 node_modules
-/.pnp
-.pnp.js
-/coverage  
-build
